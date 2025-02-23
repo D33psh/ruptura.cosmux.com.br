@@ -20,8 +20,9 @@ export default function Home() {
       <p className="w-100">
         Você resolveu seu primeiro enigma 👏
         <br />
-        Muitas historias precisam ser contadas por por hora refinadores
-        descamse, pq esse provavelmente vai ser o ultimo desafio facil
+        Muitas historias precisam ser contadas mas ainda não é o momento, por
+        hora <b>Refinadores </b>
+        descansem, pq esse provavelmente vai ser o ultimo desafio facil
       </p>
       <br />
       <p className="font-bold text-2xl">Vejo vocês em breve</p>
